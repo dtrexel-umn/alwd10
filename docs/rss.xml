@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://alwd10.ddev.site/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://dtrexel-umn.github.io/">
   <channel>
     <title>2017 ALWD Conference</title>
-    <link>https://alwd10.ddev.site/</link>
+    <link>https://dtrexel-umn.github.io/</link>
     <description/>
     <language>en</language>
     
     <item>
   <title>Speakers</title>
-  <link>https://alwd10.ddev.site/speakers</link>
+  <link>https://dtrexel-umn.github.io/speakers</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Speakers&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://alwd10.ddev.site/user/1" typeof="schema:Person" property="schema:name" datatype&gt;oitadmin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://dtrexel-umn.github.io/user/1" typeof="schema:Person" property="schema:name" datatype&gt;oitadmin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-08-11T16:16:17-05:00" title="Tuesday, August 11, 2020 - 16:16" class="datetime"&gt;Tue, 08/11/2020 - 16:16&lt;/time&gt;
 &lt;/span&gt;
 
@@ -104,7 +104,7 @@
 &lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
   <pubDate>Tue, 11 Aug 2020 21:16:17 +0000</pubDate>
     <dc:creator>oitadmin</dc:creator>
-    <guid isPermaLink="false">56 at https://alwd10.ddev.site</guid>
+    <guid isPermaLink="false">56 at https://dtrexel-umn.github.io</guid>
     </item>
 
   </channel>
